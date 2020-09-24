@@ -109,7 +109,9 @@ Getting a local copy of your repository is called "cloning" in GitHub terms.
 To clone your repository to your local computer, click the "Code" button on your GitHub page, and click the button to copy the https address of your repository.
 
 Next in your terminal navigate to where you want your repository code to live and enter the below:
-> git clone [https address for your repo]
+```
+git clone [https address for your repo]
+```
 
 Boom! You have a local copy of your code 💃.
 
@@ -133,7 +135,9 @@ It takes a little while for your pushed changes to appear on your site (especial
 
 You are now a GitHub Pages and documentation hero! 🙌🏻 🙌🏼 🙌🏽 🙌🏾 🙌🏿
 
-Edit your pages and play with your theme. Don't forget to add, commit and push at regular intervals to see how your changes have taken effect. It might be easiest to start with little changes and get your structure right before attempting anything to grand!
+Edit your pages and play with your theme. The site you are now reading is the same which I started in the recordings above, just now it's pretty 🌺
+
+Don't forget to add, commit and push your changes at regular intervals to see how they have taken effect. It might be easiest to start with little changes and get your structure right before attempting anything to grand!
 
 Some themes prefer just markdown, but most (maybe all?!) will also accept html, so anything which can be achieved in html can also go into your GitHub Pages site.
 
