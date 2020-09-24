@@ -9,8 +9,7 @@ aux_links:
     - "//github.com/cassgvp/git-for-collaborative-documentation"
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed under a <a href="https://cassgvp.github.io/git-for-collaborative-documentation/docs/LICENSE.html">CC-BY-3.0 license.</a>"
-color_scheme: cassgvp
-logo: /img/logo2.png
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -22,3 +21,6 @@ gh_edit_repository: "https://github.com/cassgvp/git-for-collaborative-documentat
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+color_scheme: cassgvp
+logo: /img/logo2.png
