@@ -6,10 +6,10 @@ has_children: true
 ---
 
 
-# License
+# Tutorials
 {: .fs-8 }
 
-How to cite and reuse these pages
+How to contribute to collaborative documentation hosted on GitHub and host your own GitHub Pages
 {: .fs-6 .fw-300 }
 
 ---

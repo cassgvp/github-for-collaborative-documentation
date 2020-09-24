@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5. Make your own documentation
+title: 5. Make your own docs
 nav_order: 5
 parent: Tutorials
 has_children: false

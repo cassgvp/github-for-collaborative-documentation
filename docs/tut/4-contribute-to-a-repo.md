@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 4. Contribute to someone's repo
+title: 4. Contribute to docs
 nav_order: 4
 parent: Tutorials
 has_children: false
 ---
 
 
-# Contribute to someone's repo
+# Contribute to someone else's documentation
 {: .fs-8 }
 
 Submit a request to amend someone else's documentation on a GitHub repository
