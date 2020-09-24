@@ -1,1 +1,16 @@
 remote_theme: pmarsceill/just-the-docs
+title: Git for collaborative documentation
+description: Tutorials and a place to practice conttributing to documentation hosted on github pages
+# Aux links for the upper right navigation
+baseurl: "/git-for-collaborative-documentation" # the subpath of your site, e.g. /blog
+url: "https://cassgvp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+aux_links:
+  "View on GitHub":
+    - "//github.com/cassgvp/git-for-collaborative-documentation"
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an <a href=\"https://https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/tree/master/LICENSE.md\">CC-BY-4.0 license.</a>"
+color_scheme: win
+logo: /img/logo.png
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
