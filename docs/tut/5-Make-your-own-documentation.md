@@ -32,11 +32,19 @@ Suggested section headings:
 - Find out more
 - Thank you
 
+![gif-update-readme](../../img/gifs/update-readme.gif)
+
 ## 3. Create a LICENSE.md
+
+![gif-add-license](../../img/gifs/add-license.gif)
 
 ## 4. Create a CONTRIBUTING.md
 
+![gif-add-contributing](../../img/gifs/add-contributing.gif)
+
 ## 5. Make it into Pages!
+
+![gif-make-pages](../../img/gifs/make-pages.gif)
 
 ## 6. Change your theme
 
@@ -44,7 +52,11 @@ https://github.blog/2017-11-29-use-any-theme-with-github-pages/
 
 https://jekyllthemes.io/free
 
+![gif-update-theme](../../img/gifs/update-theme.gif)
+
 add the pages url to the repo "about"
+
+![gif-update-about](../../img/gifs/update-about.gif)
 
 
 
@@ -52,6 +64,12 @@ add the pages url to the repo "about"
 ## 7. Clone your repository to make a local copy
 
 
-Now dig into your chosen themes "how to" guide to learn how to structure, or, find somone who's using it and copy theirs!
+Now dig into your chosen themes "how to" guide to learn how to structure, or, find someone who's using the same theme and copy theirs!
 
-Pro-tip: Search for the "theme tag" which is often automatically rendered (and not removable) from free jekyll theme sites. For example: "This site uses Just the Docs"
+Pro-tip: Search for the "theme tag" which is often automatically rendered (and not removable) from free jekyll theme sites. For example: "This site uses Just the Docs".
+
+![gif-clone-repo](../../img/gifs/clone-repo.gif)
+
+![gif-add-pages](../../img/gifs/add-pages.gif)
+
+![gif-check-render](../../img/gifs/check-render.gif)
