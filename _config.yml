@@ -8,9 +8,17 @@ aux_links:
   "View on GitHub":
     - "//github.com/cassgvp/git-for-collaborative-documentation"
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an <a href=\"https://https://github.com/cassgvp/git-for-collaborative-documentation/tree/master/LICENSE.md\">CC-BY-3.0 license.</a>"
+footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed under a <a href="https://cassgvp.github.io/git-for-collaborative-documentation/docs/LICENSE.html">CC-BY-3.0 license.</a>"
 color_scheme: cassgvp
 logo: /img/logo2.png
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/cassgvp/git-for-collaborative-documentation" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
