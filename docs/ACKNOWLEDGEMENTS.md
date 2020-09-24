@@ -18,3 +18,6 @@ Malvika Sharan. (2020, May 20). Developing Collaborative Document on GitHub - Tu
 Mozilla Science Lab and contributors (2018). A Friendly Github Intro Workshop. https://kirstiejane.github.io/friendly-github-intro/#help
 
 https://github.com/KirstieJane/STEMMRoleModels
+
+
+https://github.com/ohbm/osr2020
