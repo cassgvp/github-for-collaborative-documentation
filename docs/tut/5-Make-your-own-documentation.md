@@ -17,7 +17,7 @@ Make your own documentation repository and turn it into a GitHub Pages site
 
 ## 1. Make your repository
 
-![gif-make-repo](img/img-github-issue-emoji.png)
+![gif-make-repo](../../docs/img/gifs/create-repo.gif)
 
 ## 2. Update your README.md
 
