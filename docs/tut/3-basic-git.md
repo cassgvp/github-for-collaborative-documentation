@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Set up your GitHub
-nav_order: 1
+title: 3. Basic git
+nav_order: 3
 parent: Tutorials
 has_children: false
 ---
 
 
-# Set up your GitHub
+# Basic git commands
 {: .fs-8 }
 
-Make your github account
+Use these commands to do 90% of your work
 {: .fs-6 .fw-300 }
 
 ---

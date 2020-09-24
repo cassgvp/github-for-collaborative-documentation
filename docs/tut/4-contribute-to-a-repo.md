@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contribute to someone's repo
+title: 4. Contribute to someone's repo
 nav_order: 4
 parent: Tutorials
 has_children: false

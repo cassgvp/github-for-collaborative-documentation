@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Basic git
-nav_order: 3
+title: 1. Using Atom
+nav_order: 1
 parent: Tutorials
 has_children: false
 ---
 
 
-# Basic git commands
+# Using atom
 {: .fs-8 }
 
-Use these commands to do 90% of your work
+How to set up and use atom from writing markdown
 {: .fs-6 .fw-300 }
 
 ---

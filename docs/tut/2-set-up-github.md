@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Set up your GitHub
+title: 2. Set up your GitHub
 nav_order: 2
 parent: Tutorials
 has_children: false
