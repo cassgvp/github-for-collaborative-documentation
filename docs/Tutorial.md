@@ -13,5 +13,3 @@ How to contribute to collaborative documentation hosted on GitHub and host your 
 {: .fs-6 .fw-300 }
 
 ---
-
-Distrubuted under [CC-BY-3.10](https://creativecommons.org/licenses/by/3.0/legalcode)

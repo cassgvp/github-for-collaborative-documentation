@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Github issues
+title: 6. Github issues
 nav_order: 6
 parent: Tutorials
 has_children: false

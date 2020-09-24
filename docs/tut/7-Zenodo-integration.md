@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zenodo integration
+title: 7. Zenodo integration
 nav_order: 7
 parent: Tutorials
 has_children: false
