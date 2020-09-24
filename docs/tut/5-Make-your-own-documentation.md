@@ -53,7 +53,7 @@ To save your changes, describe what you did in the commit message, then press "c
 
 A license file is essential to indicate to others how you want your repository to be reused and credited.
 
-To get the license file in place, I'm going to use the "add file" function and simply add a title. I'll fill in the details later!
+To get the license file in place, I'm going to use the "add file" function and add a title and a link to the CC-BY legal wording.
 
 To save your changes, describe what you did in the commit message, then press "commit"
 
@@ -102,13 +102,39 @@ While you're here, it's a good idea to add the URL of your pages site to the "Ab
 
 ## 7. Clone your repository to make a local copy
 
+At the moment, your repository exists only online. This is fine for basic editing, but it you want to be able to work on your site and documentation offline, you'll want to have a copy of everything on your own computer. You can also use some neat tools for editing markdown once you have a copy of the repository locally.
 
-Now dig into your chosen themes "how to" guide to learn how to structure, or, find someone who's using the same theme and copy theirs!
+Getting a local copy of your repository is called "cloning" in GitHub terms.
 
-Pro-tip: Search for the "theme tag" which is often automatically rendered (and not removable) from free jekyll theme sites. For example: "This site uses Just the Docs".
+To clone your repository to your local computer, click the "Code" button on your GitHub page, and click the button to copy the https address of your repository.
+
+Next in your terminal navigate to where you want your repository code to live and enter the below:
+> git clone [https address for your repo]
+
+Boom! You have a local copy of your code 💃.
 
 ![gif-clone-repo](../../img/gifs/clone-repo.gif)
 
+Now dig into the "how to" guide of your chosen theme to learn what you can add to make your pages site 💯.
+
+Pro-tip: Search the internet for examples where other people have used the same theme as you, then did about in their GitHub repository to see how they achieved it. You can simply search for the "theme tag" which is often automatically rendered (and not removable) from free jekyll theme sites. For example: "This site uses Just the Docs, a documentation theme for Jekyll."
+
+In the below I've edited my repo in atom. I've added a few pages, and the front matter (text at the top) to define the order I want pages to appear in, and whether they should have sub-pages ("children").
+
+Once you've made a few changes, simply add, commit and push them to your repo!
+
 ![gif-add-pages](../../img/gifs/add-pages.gif)
 
+It takes a little while for your pushed changes to appear on your site (especially if they are more complex things than adding/removing words). Be patient ⏳. Wait for them to arrive and see what you have created!
+
 ![gif-check-render](../../img/gifs/check-render.gif)
+
+## 8. Tweak your theme and content as you wish!
+
+You are now a GitHub Pages and documentation hero! 🙌🏻 🙌🏼 🙌🏽 🙌🏾 🙌🏿
+
+Edit your pages and play with your theme. Don't forget to add, commit and push at regular intervals to see how your changes have taken effect. It might be easiest to start with little changes and get your structure right before attempting anything to grand!
+
+Some themes prefer just markdown, but most (maybe all?!) will also accept html, so anything which can be achieved in html can also go into your GitHub Pages site.
+
+Go forth and document, with version control! 🤘🏻 🤘🏼 🤘🏽 🤘🏾 🤘🏿
