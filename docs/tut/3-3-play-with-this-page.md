@@ -20,7 +20,7 @@ A safe space for you to submit changes to this very document!
 
 This page is a safe space for you to practice contributing to documentation. I was far more intimidated by the prospect of inserting my words into someone else's work than I was creating my own from scratch, so for these tutorials I've decided to show you things this way round - contribute first, then make your own.
 
-Once you have contributed to someone else's documentation (and seen how easy it is), you may find it easier to envisage your own work as a collaborative, community effort (assuming that's what you are after), and help ease others into contributing to your documentation.
+Once you have contributed to someone else's documentation (and seen how easy it is), you may find it easier to envisage your own work as a collaborative, community effort (assuming that's what you are after), and help ease others into the contribution process.
 
 ## What to do
 
@@ -36,26 +36,26 @@ When I have accepted your pull request, you will have a permanent (version contr
 
 We, the undersigned, have submitted a pull request to this repository:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
+15.  
+16.  
+17.  
+18.  
+19.  
+20.  
 
 
 ## You did it!
