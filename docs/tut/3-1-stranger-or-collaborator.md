@@ -26,4 +26,4 @@ By "stranger" I mean that you are not one of the people who have access to make 
 
 ## If you know the repository owner
 
-You can also submit changes in a more straight forward way if you have ben added as a collaborator to a repository. This requires the repository owner to have agreed this with you in advance, which we're not going to assume has happened here. You can follow a detailed presentation on [how to add collaborators to your repository here]()https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit#slide=id.g1568089626_6_46)
+You can also submit changes in a more straight forward way if you have ben added as a collaborator to a repository. This requires the repository owner to have agreed this with you in advance, which we're not going to assume has happened here. You can follow a detailed presentation on [how to add collaborators to your repository here](https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit#slide=id.g1568089626_6_46)
