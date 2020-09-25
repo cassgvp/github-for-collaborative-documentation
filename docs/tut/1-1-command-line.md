@@ -8,32 +8,42 @@ has_children: false
 ---
 
 
-# Atom text editor
+# Using the command line
 {: .fs-8 }
 
-How to set up and use Atom for writing markdown
+How to work with your computer via the command line
 {: .fs-6 .fw-300 }
 
 ---
 
-![logo-atom](../../img/atom-200.png)
+The most direct way to interact with a computer is via the “command line”. This is a simple text interface, but it can be used to powerful effect as there is no overhead of system resources (or programming work!) in generating a graphical user interface (GUI). You can also work quickly by keeping your fingers on the keyboard and avoiding reaching for the mouse! 🐭
 
-Atom is my fave editor for all types of "code". Python, bash, markdown, html... I've not tried with LaTeX, but I wouldn't be surprised if it can handle that. My guess is it probably can't handle MATLAB, but that's cool.
+Using the command line requires you to pay close attention to spacing and case (upper or lower) of text commands, as these modify the effect of the commands you type. There is no spell check in command line! If you type something wrong, insert or remove a space where there shouldn't be, or put an uppercase letter where there should be a lower case one, the command won't work. This can make the command line feel pretty unforgiving, but you'll get used to it 😊. Most commands will have associated “help” files and there is always lots of examples and documentation on the internet.
 
-## Why I love Atom
+We will be using the command line to install some programs, and communicate with our online repository which holds our documentation.
 
-What I particularly love about Atom is that I can switch between different languages very comfortably), and Atom takes care of everything the same way, no matter what you are writing. It handles the colours, the spacing, the formatting, [linting](https://en.wikipedia.org/wiki/Lint_(software)), the keyboard shortcuts, autocompletions, commenting, spell checking, searching / find+replace across multiple files, all the important stuff! I guess that is what you get from an open source tool developed by and for users who write code for a living! Other tools are available which I'm sure do a great job, but this is the one I am most comfortable with and consistently pleased by.
+## How to access you command online
 
-## Why you should use Atom
+We will be using a unix based command line, as this is consistently available across unix/linux systems (for example high performance computing clusters), Mac OS and Windows OS.
 
-To host your documentation on GitHub pages, you're going to be writing across multiple documents, and potentially in more than one language. Atom also has a directory tree on the left which enables you to navigate around your project file easily, and also do things like create, duplicate and delete files using good old point-and-click.
+### Mac users
 
-Atom also provides a graphical point-and-click way of committing changes to your GitHub repo. This can be useful if you're not familiar with the process, but for these tutorials we're going to stick to command line and the terminal for GitHub, because you get more informative error reports.
+On a Mac the program to access your command line is called "Terminal". Access your terminal via the applications launcher, or press command (⌘) and space and start typing "terminal".
 
-## How to start with Atom
+### Windows users
 
-Before we crack on with creating and editing documentation, I'd love for you to get familiar with working in Atom. Here's a short video which shows you how to [install and start using Atom](https://www.youtube.com/watch?v=EyG20hhON6E).
+From Windows 10 onwards you can access a unix command line using the application "Powershell". Search for Powershell in the applications directory from the start button.
 
-There are tones of packages you can add on to make your workflow easier, but for these tutorials you'll only need the markdown basics which come preloaded.
+## Basic command line tutorial
 
-Thanks, Atom. We love ya.
+Launch your command line application and have a go at completing [Unix Tutorial 1 from the University of Surrey](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html). [Tutorial 2 (up to rmdir)](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html) will also be helpful.
+
+After you have completed these tutorials, you should be able to do this via command line:
+
+1. Navigate to a directory;
+2. List the contents of that directory;
+3. Make a new folder called “test”;
+4. Go into the “test” folder and print the full path of that folder;
+5. Delete the “test” folder.
+
+This will be 90% of what you need to make your documentation!
