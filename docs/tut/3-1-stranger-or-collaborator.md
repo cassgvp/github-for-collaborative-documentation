@@ -18,9 +18,9 @@ Two ways to contribute, depending on whether you are already known to and truste
 
 ## Assuming you are a "stranger" to the repository owner
 
-In my experience a contribution to a repository doesn't come out of nowhere. Often you will have been having a bit of a chat in someone's repository issues (more on that later), and they will say, "Hey, that's a great idea! Do you want to submit a pull request?!". Here is your invitation to contribute!
+In my experience, a contribution to a repository doesn't come out of nowhere. Often you will have been having a bit of a chat in someone's repository issues (more on that later), and they will say, "Hey, that's a great idea! Do you want to submit a pull request?!". Here is your invitation to contribute!
 
-By "stranger" I mean that you are not one of the people who have access to make changes to the repository without going through a gate keeper. Your gate keeper is the process of the pull request, and its review by the repository owner.
+By "stranger" I mean that you are not one of the people who have access to make changes to the repository without going through a gate keeper. Your gate keeper is the process of the pull request which is review by the repository owner.
 
 
 
