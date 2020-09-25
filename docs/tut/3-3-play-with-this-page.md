@@ -16,7 +16,7 @@ A safe space for you to submit changes to this very document!
 
 ---
 
-This page is a safe space for you to practice contributing to documentation. For me, I was far more intimidated by the prospect of 
+This page is a safe space for you to practice contributing to documentation. I was far more intimidated by the prospect of inserting my words into someone else's work than I was creating my own from scratch, so for these tutorials I've decided to show you things this way round. Once you have contributed to someone else's documentation (and seen how easy it is), you may find it easier to 
 
 ready for you to update! Using the
 

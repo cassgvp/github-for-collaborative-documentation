@@ -70,7 +70,7 @@ Pro-tip: Search the internet for examples where other people have used the same 
 
 In the below I've edited my repo in atom. I've added a few pages, and the front matter (text at the top) to define the order I want pages to appear in, and whether they should have sub-pages ("children").
 
-Once you've made a few changes, simply add, commit and push them to your repo!
+Once you've made a few changes, simply [add, commit and push](2-4-git-basics.md) them to your repo!
 
 ![gif-add-pages](../../img/gifs/add-pages.gif)
 

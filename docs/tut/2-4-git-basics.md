@@ -21,9 +21,13 @@ Practicing some radical transparency here, folks 😉. I can do enough git to ge
 
 ![xkcd-git](https://imgs.xkcd.com/comics/git.png)
 
-While I think it is SUPER cool to know everything about git and understand all the stuff, I totally respect that not everyone has that much time available to learn all the new things, and to expect everyone to be a wizard at something before they can participate make for a very exclusive and unwelcoming community.
+While I think it is SUPER cool to know everything about git and understand all the stuff, I totally respect that not everyone has that much time available to learn all the new things, and to expect everyone to be a wizard at something before they can participate makes for a very exclusive and unwelcoming community.
 
 In the spirit of inclusivity, I'm going to show you the git commands I know, and then you too will be able to do just enough git to get by, and make use of this excellent resource in a way which works for you.
+
+## Watch and learn
+
+We're not yet going to actually practice doing these things right now. I'd just like you to become familiar with (memorize?!) them. You'll get a chance to use them when you have a go at [contributing to this repository](3-3-play-with-this-page.md),  and again when you [make your pages site](4-2-Make-your-Pages-site.md).
 
 ## The three(ish) stages of adding to your repository online
 
@@ -65,6 +69,6 @@ At this point (especially if it is a big load of changes I'm uploading) I'll oft
 
 ![gif-basic-git](../../img/gifs/basic-git.gif)
 
-
+Give it a few minutes to let the changes take effect, then go back and refresh your Pages site. Boom! Updated content.
 
 ![gif-basic-git-show-changes](../../img/gifs/basic-git-show-change.gif)
