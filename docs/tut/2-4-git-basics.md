@@ -35,7 +35,7 @@ While entering all these commands, keep an eye on the messages appearing in your
 
 ### 0. Ask git to tell you what has changed
 
-I love `git status`. Sometimes I know exactly what I've changed, and sometimes I'll have been jumping all over the place changing multiple files. Before I upload any changes, I'll usually run the `git status` command to remind me of what files I've been working on, so I can write a sensible commit message (see below)
+I love `git status`. Sometimes I know exactly what I've changed, and sometimes I'll have been jumping all over the place changing multiple files. Before I upload any changes, I'll usually run the `git status` command to remind me of what files I've been working on, so I can write a sensible commit message (see below).
 
 ### 1. Add
 
@@ -61,9 +61,10 @@ You've added files to your staging area, you are committed to uploading them, no
 
 Everything you have added will be uploaded ("pushed") to your repository.
 
-At this point (especially if it is a bit load of changes I'm uploading) I'll often skip excitedly over to my online repository and have a look at my commit and the file changes. It's almost as if I don't trust the magic!?! 😉
+At this point (especially if it is a big load of changes I'm uploading) I'll often skip excitedly over to my online repository and have a look at my commit and the file changes. It's almost as if I don't trust the magic!?! 😉
+
+![gif-basic-git](../../img/gifs/basic-git.gif)
 
 
 
-
-## The one stage of pulling a copy of your online repository
+![gif-basic-git-show-changes](../../img/gifs/basic-git-show-change.gif)
