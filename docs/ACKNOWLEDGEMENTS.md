@@ -20,6 +20,8 @@ Mozilla Science Lab and contributors (2018). A Friendly Github Intro Workshop. h
 https://github.com/KirstieJane/STEMMRoleModels
 
 
-https://github.com/ohbm/osr2020
 
-http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html
+
+https://carpentries-incubator.github.io/building-websites-with-jekyll-and-github-or-gitlab/
+
+https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/
