@@ -8,32 +8,33 @@ has_children: false
 ---
 
 
-# Atom text editor
+# Writing in markdown
 {: .fs-8 }
 
-How to set up and use Atom for writing markdown
+How to write documents using Markdown syntax
 {: .fs-6 .fw-300 }
 
 ---
 
-![logo-atom](../../img/atom-200.png)
+Markdown is a simple syntax for formatting text and adding graphics to documentation. Writing documentation using syntax (rather than Microsoft Word, for example), makes it easy for different programs to interpret what you have written and display it according to fixed rules. A markdown document can be easily transferred to a Word document, a pdf, and back again. By contrast, have you ever tried to copy-past from a pdf into Word?! Some characters just don't translate...
 
-Atom is my fave editor for all types of "code". Python, bash, markdown, html... I've not tried with LaTeX, but I wouldn't be surprised if it can handle that. My guess is it probably can't handle MATLAB, but that's cool.
+Using markdown also supports you to use "heading" identifiers, rather than simply changing the font size. This is because it is so *easy* to use heading syntax and it is comparatively complex to change a font size! This makes for content which is more accessible to screen readers used by individuals with a visual impairment ✌🏻 ✌🏼 ✌🏽 ✌🏾 ✌🏿
 
-## Why I love Atom
+Markdown is used by GitHub to translate your text and formatting into webpage (GitHub Pages) content. You will be writing your documentation (maybe in [Atom](1-3-atom.md)) using markdown syntax, and it will automatically be rendered into something beautiful on your Pages site.
 
-What I particularly love about Atom is that I can switch between different languages very comfortably), and Atom takes care of everything the same way, no matter what you are writing. It handles the colours, the spacing, the formatting, [linting](https://en.wikipedia.org/wiki/Lint_(software)), the keyboard shortcuts, autocompletions, commenting, spell checking, searching / find+replace across multiple files, all the important stuff! I guess that is what you get from an open source tool developed by and for users who write code for a living! Other tools are available which I'm sure do a great job, but this is the one I am most comfortable with and consistently pleased by.
+There are *many* markdown tutorials online which you can follow. I've listed the syntax I use most commonly below:
 
-## Why you should use Atom
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
 
-To host your documentation on GitHub pages, you're going to be writing across multiple documents, and potentially in more than one language. Atom also has a directory tree on the left which enables you to navigate around your project file easily, and also do things like create, duplicate and delete files using good old point-and-click.
+![image alt text](image path)
 
-Atom also provides a graphical point-and-click way of committing changes to your GitHub repo. This can be useful if you're not familiar with the process, but for these tutorials we're going to stick to command line and the terminal for GitHub, because you get more informative error reports.
+*italic*
+**bold**
+***italic bold**
+```
 
-## How to start with Atom
-
-Before we crack on with creating and editing documentation, I'd love for you to get familiar with working in Atom. Here's a short video which shows you how to [install and start using Atom](https://www.youtube.com/watch?v=EyG20hhON6E).
-
-There are tones of packages you can add on to make your workflow easier, but for these tutorials you'll only need the markdown basics which come preloaded.
-
-Thanks, Atom. We love ya.
+P.S. There is no shame in having a markdown cheat-sheet pinned to your virtual or physical wall 😉
