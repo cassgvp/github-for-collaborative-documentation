@@ -37,29 +37,31 @@ When I have accepted your pull request, you will have a permanent (version contr
 We, the undersigned, have submitted a pull request to this repository:
 
 > Pro tips:
+
 > 1) To find the right page in this repository (or your copy of this repository) to edit, click on the "Edit this page on GitHub" link at the bottom of this page.
-> 2) When you are adding your name, pronouns and date, delete the "<br>" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now. 
+
+> 2) When you are adding your name, pronouns and date, delete the "<br>" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now.
 
 1.<br>
-2.<br>  
-3.<br>  
-4.<br>  
-5.<br>  
-6.<br>  
-7.<br>  
-8.<br>  
-9.<br>  
-10.<br>  
-11.<br>  
-12.<br>  
-13.<br>  
-14.<br>  
-15.<br>  
-16.<br>  
-17.<br>  
-18.<br>  
-19.<br>  
-20.<br>  
+2.<br>
+3.<br>
+4.<br>
+5.<br>
+6.<br>
+7.<br>
+8.<br>
+9.<br>
+10.<br>
+11.<br>
+12.<br>
+13.<br>
+14.<br>
+15.<br>
+16.<br>
+17.<br>
+18.<br>
+19.<br>
+20.<br>
 
 
 ## You did it!
