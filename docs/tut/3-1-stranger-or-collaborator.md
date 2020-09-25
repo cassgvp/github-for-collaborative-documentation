@@ -2,7 +2,7 @@
 layout: default
 title: 3.1 Stranger or collaborator
 nav_order: 1
-grans_parent: Tutorials
+grand_parent: Tutorials
 parent: 3. Contribute to docs
 has_children: false
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: 3.2 Make a copy and submit a PR
 nav_order: 1
-grans_parent: Tutorials
+grand_parent: Tutorials
 parent: 3. Contribute to docs
 has_children: false
 ---
@@ -82,4 +82,4 @@ If you're feeling excited by all this wonderful collaboration, jump back into th
 
 Your pull request will now be reviewed by the repository owners, and you will get an email if/when it has been accepted. Now you have left a comment, you will also be notified when there are additional comments added to your thread.
 
-Sweet! You just contributed to shared documentation! The documentation is now 1000 times better because you added your insight (maybe, probably)! You should do this more often, and help make stuff easier for other people to understand, and distribute the efforts of keeping good documentation relevant! Great job ⭐️
+Sweet! Now you know how to contribute to other people documentation hosted on GitHub! Lets crack on and have a go at doing it in a very safe space... This repository! 
