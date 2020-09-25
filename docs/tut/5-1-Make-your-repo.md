@@ -2,7 +2,7 @@
 layout: default
 title: 5.1 Make a GitHub repository
 nav_order: 1
-grandparent: Tutorials
+grand_parent: Tutorials
 parent: 5. Make your own docs
 has_children: false
 ---
