@@ -8,7 +8,7 @@ has_children: false
 ---
 
 
-# Make a copy and submit a pull request (PR)
+# Make a copy and submit a pull request
 {: .fs-8 }
 
 Get your own copy of someone else's material, so you can make changes and send them back for review as a pull request (PR)

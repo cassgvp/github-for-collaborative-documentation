@@ -16,7 +16,9 @@ A safe space for you to submit changes to this very document!
 
 ---
 
-This page is ready for you to update! Using the
+This page is a safe space for you to practice contributing to documentation. For me, I was far more intimidated by the prospect of 
+
+ready for you to update! Using the
 
 
 You just contributed to shared documentation! The documentation is now 1000 times better because you added your insight (maybe, probably)! You should do this more often, and help make stuff easier for other people to understand, and distribute the efforts of keeping good documentation relevant! Great job ⭐️
