@@ -22,7 +22,7 @@ Using the command line requires you to pay close attention to spacing and case (
 
 We will be using the command line to install some programs, and communicate with our online repository which holds our documentation.
 
-## How to access you command online
+## How to access your command online
 
 We will be using a unix based command line, as this is consistently available across unix/linux systems (for example high performance computing clusters), Mac OS and Windows OS.
 
@@ -36,7 +36,7 @@ From Windows 10 onwards you can access a unix command line using the application
 
 ## Basic command line tutorial
 
-Launch your command line application and have a go at completing [Unix Tutorial 1 from the University of Surrey](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html). [Tutorial 2 (up to rmdir)](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html) will also be helpful.
+Launch your command line application and have a go at completing [Unix Tutorial 1 from the University of Surrey](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html). [Tutorial 2 (up to rmdir)](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html) will also be helpful for what we're aiming to achieve.
 
 After you have completed these tutorials, you should be able to do this via command line:
 
