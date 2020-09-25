@@ -2,6 +2,7 @@
 layout: default
 title: 5.2 Make your GitHub Pages site
 nav_order: 2
+grandparent: Tutorials
 parent: 5. Make your own docs
 has_children: false
 ---
