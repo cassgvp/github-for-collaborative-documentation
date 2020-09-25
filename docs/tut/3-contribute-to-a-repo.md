@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4. Contribute to docs
-nav_order: 4
+title: 3. Contribute to docs
+nav_order: 3
 parent: Tutorials
 has_children: false
 ---

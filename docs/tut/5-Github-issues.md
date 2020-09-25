@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7. Zenodo integration
-nav_order: 7
+title: 5. Github issues
+nav_order: 5
 parent: Tutorials
 has_children: false
 ---
@@ -10,7 +10,7 @@ has_children: false
 # Github issues
 {: .fs-8 }
 
-Integrate your repository with Zenodo to create a citable object
+Use GitHub issues to invite feedback and track improvements
 {: .fs-6 .fw-300 }
 
 ---

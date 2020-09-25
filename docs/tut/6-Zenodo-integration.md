@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6. Github issues
+title: 6. Zenodo integration
 nav_order: 6
 parent: Tutorials
 has_children: false
@@ -10,7 +10,7 @@ has_children: false
 # Github issues
 {: .fs-8 }
 
-Use GitHub issues to invite feedback and track improvements
+Integrate your repository with Zenodo to create a citable object
 {: .fs-6 .fw-300 }
 
 ---

@@ -1,16 +1,17 @@
 ---
 layout: default
-title: 1. Using Atom
-nav_order: 1
-parent: Tutorials
+title: 1.2 Markdown
+nav_order: 2
+grand_parent: Tutorials
+parent: 1. Tools for git
 has_children: false
 ---
 
 
-# Using Atom
+# Atom text editor
 {: .fs-8 }
 
-How to set up and use Atom from writing markdown
+How to set up and use Atom for writing markdown
 {: .fs-6 .fw-300 }
 
 ---

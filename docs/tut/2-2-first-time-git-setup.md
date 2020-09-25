@@ -1,13 +1,14 @@
 ---
 layout: default
-title: 2. Set up your GitHub
+title: 2.2 Configure git
 nav_order: 2
-parent: Tutorials
+grand_parent: Tutorials
+parent: 2. Starting with GitHub
 has_children: false
 ---
 
 
-# Set up your GitHub
+# Configure git (first time only)
 {: .fs-8 }
 
 Make your github account

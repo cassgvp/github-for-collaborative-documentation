@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 3. Basic git
-nav_order: 3
-parent: Tutorials
+title: 2.4 Basic git commands
+nav_order: 4
+grand_parent: Tutorials
+parent: 2. Starting with GitHub
 has_children: false
 ---
-
 
 # Basic git commands
 {: .fs-8 }
