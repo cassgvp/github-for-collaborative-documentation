@@ -78,8 +78,8 @@ Note that depending on how long it has been between you forking the original rep
 
 If you're feeling excited by all this wonderful collaboration, jump back into the original repository you cloned from, and check that the pull request is there. You can even write something nice to the repository owners, if you're feeling friendly.
 
-![gif-pull-request-confirmed](../../img/gifs/pull-request-confirmed.gif)
+![gif-pull-request-confirmed](../../img/gifs/pull-request-confirm.gif)
 
 Your pull request will now be reviewed by the repository owners, and you will get an email if/when it has been accepted. Now you have left a comment, you will also be notified when there are additional comments added to your thread.
 
-Sweet! Now you know how to contribute to other people documentation hosted on GitHub! Lets crack on and have a go at doing it in a very safe space... This repository! 
+Sweet! Now you know how to contribute to other people documentation hosted on GitHub! Lets crack on and have a go at doing it in a very safe space... This repository!
