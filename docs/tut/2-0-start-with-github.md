@@ -7,10 +7,8 @@ has_children: true
 ---
 
 
-# Set up your GitHub
+# Starting with git
 {: .fs-8 }
 
-Make your github account
+A few hoops to jump through before you can rock GitHub Pages for your documentation
 {: .fs-6 .fw-300 }
-
----
