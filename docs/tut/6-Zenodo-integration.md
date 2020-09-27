@@ -14,3 +14,6 @@ Integrate your repository with Zenodo to create a citable object
 {: .fs-6 .fw-300 }
 
 ---
+
+Coming soon
+{: .label .label-yellow }
