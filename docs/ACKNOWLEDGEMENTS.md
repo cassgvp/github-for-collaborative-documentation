@@ -17,11 +17,8 @@ Malvika Sharan. (2020, May 20). Developing Collaborative Document on GitHub - Tu
 
 Mozilla Science Lab and contributors (2018). A Friendly Github Intro Workshop. https://kirstiejane.github.io/friendly-github-intro/#help
 
-https://github.com/KirstieJane/STEMMRoleModels
+The [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) repository.
 
+The [Carpentries guide to building websites with jekyll](https://carpentries-incubator.github.io/building-websites-with-jekyll-and-github-or-gitlab/)
 
-
-
-https://carpentries-incubator.github.io/building-websites-with-jekyll-and-github-or-gitlab/
-
-https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/
+The [Free Code Camp guide to making your first pull request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
