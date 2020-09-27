@@ -40,7 +40,7 @@ We, the undersigned, have submitted a pull request to this repository:
 
 > 1) To find the right page in this repository (or your copy of this repository) to edit, click on the "Edit this page on GitHub" link at the bottom of this page.
 
-> 2) When you are adding your name, pronouns and date, delete the "<br>" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now.
+> 2) When you are adding your name, pronouns and date, delete the "&<br>" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now.
 
 1.<br>
 2.<br>
