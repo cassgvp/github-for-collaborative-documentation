@@ -13,7 +13,7 @@ We acknowledge attribute and gratitude to the following resources in creating th
 
 ---
 
-Malvika Sharan. (2020, May 20). Developing Collaborative Document on GitHub - Tutorial for new learners (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3835657
+Malvika Sharan. (2020, May 20). Developing Collaborative Document on GitHub - Tutorial for new learners (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3835657](http://doi.org/10.5281/zenodo.3835657)
 
 Mozilla Science Lab and contributors (2018). [A Friendly Github Intro Workshop](https://kirstiejane.github.io/friendly-github-intro/#help)
 
