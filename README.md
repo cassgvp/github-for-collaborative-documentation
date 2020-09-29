@@ -1,9 +1,6 @@
 # Git for collaborative documentation
 {: .fs-8 }
 
-
-Crappy changes by Robin
-
 Follow these tutorials to learn how to contribute to documentation hosted on github pages, and host your own docs!
 {: .fs-6 .fw-300 }
 
