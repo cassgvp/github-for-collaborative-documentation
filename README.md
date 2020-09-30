@@ -1,8 +1,8 @@
 # Git for collaborative documentation
-{: .fs-8 }
+
 
 Follow these tutorials to learn how to contribute to documentation hosted on github pages, and host your own docs!
-{: .fs-6 .fw-300 }
+
 
 This is the GitHub repository for material shared via [cassgvp.github.io/git-for-collaborative-documentation/](https://cassgvp.github.io/git-for-collaborative-documentation/).
 
