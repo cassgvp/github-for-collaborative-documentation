@@ -1,5 +1,7 @@
 # Git for collaborative documentation
 
+[![DOI](https://zenodo.org/badge/298242612.svg)](https://zenodo.org/badge/latestdoi/298242612)
+
 
 Follow these tutorials to learn how to contribute to documentation hosted on github pages, and host your own docs!
 
