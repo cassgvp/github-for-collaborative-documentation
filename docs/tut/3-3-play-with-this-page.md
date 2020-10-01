@@ -59,7 +59,7 @@ We, the undersigned, have submitted a pull request to this repository:
 15.<br>
 16.<br>
 17.<br>
-18.<br>
+18. Yo :) 
 19.<br>
 20.<br>
 
