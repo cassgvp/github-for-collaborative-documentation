@@ -52,7 +52,7 @@ We, the undersigned, have submitted a pull request to this repository:
 8.<br>
 9.<br>
 10.<br>
-11.<br>
+11.Lukas van den Heuvel - he/his - 1 Oct 2020  
 12.<br>
 13.<br>
 14.<br>
