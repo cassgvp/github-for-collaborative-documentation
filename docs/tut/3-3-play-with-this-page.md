@@ -52,16 +52,17 @@ We, the undersigned, have submitted a pull request to this repository:
 8.<br>
 9.<br>
 10.<br>
-11.<br>
+11.Lukas van den Heuvel - he/his - 1 Oct 2020  
 12.<br>
 13.<br>
 14.<br>
 15.<br>
 16.<br>
-17.<br>
-18.<br>
-19.<br>
-20. Paul Owoicho - he/him - 1st Oct. 2020 :)
+17. Arielle Bennett - she/her - 1st Oct. 2020 XD 
+18. Yo :) 
+19.Hilya - 1 Oct, 2020
+20.<br>
+21. Paul Owoicho - he/him - 1st Oct. 2020 :)
 
 
 ## You did it!
