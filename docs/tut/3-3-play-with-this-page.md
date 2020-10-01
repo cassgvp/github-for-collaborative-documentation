@@ -47,8 +47,8 @@ We, the undersigned, have submitted a pull request to this repository:
 3.<br>
 4.<br>
 5.<br>
-6. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
-7.<br>
+6. Emma Karoune - she/her - 01/10/2020 :)  
+7.Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
 8.<br>
 9.<br>
 10.<br>
