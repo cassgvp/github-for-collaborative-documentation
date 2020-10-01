@@ -47,20 +47,20 @@ We, the undersigned, have submitted a pull request to this repository:
 3.<br>
 4.<br>
 5.<br>
-6.<br>
-7.<br>
+6. Emma Karoune - she/her - 01/10/2020 :)  
+7.Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
 8.<br>
 9.<br>
 10.<br>
-11.<br>
+11.Lukas van den Heuvel - he/his - 1 Oct 2020  
 12.<br>
-13.<br>
+13.Laura Carter - she/her - 1 October 2020
 14.<br>
 15.<br>
 16.<br>
-17.<br>
-18.<br>
-19.<br>
+17. Arielle Bennett - she/her - 1st Oct. 2020 XD 
+18. Yo :) 
+19.Hilya - 1 Oct, 2020
 20.<br>
 
 
