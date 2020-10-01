@@ -58,7 +58,7 @@ We, the undersigned, have submitted a pull request to this repository:
 14.Teresa Laguna - 01st Oct 2020 ;-)
 15.<br>
 16.<br>
-17.<br>
+17.Arielle Bennett - she/her - 1st Oct. 2020 XD
 18.<br>
 19.<br>
 20.<br>
