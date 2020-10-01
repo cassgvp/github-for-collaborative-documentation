@@ -42,12 +42,12 @@ We, the undersigned, have submitted a pull request to this repository:
 
 > 2) When you are adding your name, pronouns and date, delete the "&lt;br&gt;" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these "&lt;br&gt;" after each number, markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now.
 
-1. Alex Hernandez-Garcia - he/his - 29th Sep. 2020 :)  
-2. Paul Owoicho - he/his - 1st Oct. 2020 :)
+1. Alex Hernandez-Garcia - he/his - 29th Sep. 2020 :) 
+2. Laura Carter - she/her - 1 October 2020
 3.<br>
 4.<br>
 5.<br>
-6.<br>
+6. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
 7.<br>
 8.<br>
 9.<br>
@@ -61,7 +61,7 @@ We, the undersigned, have submitted a pull request to this repository:
 17.<br>
 18.<br>
 19.<br>
-20.<br>
+20. Paul Owoicho - he/him - 1st Oct. 2020 :)
 
 
 ## You did it!
