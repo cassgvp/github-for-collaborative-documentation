@@ -45,7 +45,7 @@ We, the undersigned, have submitted a pull request to this repository:
 1. Alex Hernandez-Garcia - he/his - 29th Sep. 2020 :) 
 2. Laura Carter - she/her - 1 October 2020
 3. Eva C. Herbst - she/her = 1 October 2020
-4.<br>
+4. Harriet Natabona - she/her - 1 October 2020
 5.<br>
 6. Emma Karoune - she/her - 01/10/2020 :)  
 7. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
