@@ -45,25 +45,23 @@ We, the undersigned, have submitted a pull request to this repository:
 1. Alex Hernandez-Garcia - he/his - 29th Sep. 2020 :) 
 2. Laura Carter - she/her - 1 October 2020
 3. Eva C. Herbst - she/her = 1 October 2020
-4.<br>
-5.<br>
-6. Emma Karoune - she/her - 01/10/2020 :)  
-7. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
-8.<br>
-9.<br>
-10.<br>
-11. Lukas van den Heuvel - he/his - 1 Oct 2020  
-12.<br>
-13. Laura Carter - she/her - 1 October 2020
-14. Enzo Nio, 30 Sep 2020 ;) <br>
-14.<br>
-15.<br>
-16.<br>
-17. Arielle Bennett - she/her - 1st Oct. 2020 XD 
-18. Yo :) 
-19. Hilya - 1 Oct, 2020
-20.<br>
-21. Paul Owoicho - he/him - 1st Oct. 2020 :)
+4. Emma Karoune - she/her - 01/10/2020 :)  
+5. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
+6. Lukas van den Heuvel - he/his - 1 Oct 2020  
+7. Laura Carter - she/her - 1 October 2020
+8. Enzo Nio, 30 Sep 2020 ;) <br>
+9. Arielle Bennett - she/her - 1st Oct. 2020 XD 
+10. Yo :) 
+11. Hilya - 1 Oct, 2020
+12. Paul Owoicho - he/him - 1st Oct. 2020 :) 
+13. <br>
+14. <br>
+15. <br>
+16. <br>
+17. <br>
+18. <br>
+19. <br>
+20. <br>
 
 ![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg)
 
