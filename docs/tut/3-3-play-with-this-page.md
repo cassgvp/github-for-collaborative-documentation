@@ -65,6 +65,8 @@ We, the undersigned, have submitted a pull request to this repository:
 20.<br>
 21. Paul Owoicho - he/him - 1st Oct. 2020 :)
 
+![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg)
+
 
 ## You did it!
 
