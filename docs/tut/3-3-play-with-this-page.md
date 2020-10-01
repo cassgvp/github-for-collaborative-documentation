@@ -46,7 +46,7 @@ We, the undersigned, have submitted a pull request to this repository:
 2. Laura Carter - she/her - 1 October 2020
 3. Eva C. Herbst - she/her = 1 October 2020
 4. Emma Karoune - she/her - 01/10/2020 :)  
-5. Georgia Aitkenhead - she/her - 01st Oct. 2020 :star2: 
+5. Georgia Aitkenhead - she/her - 01st Oct. 2020 🌟
 6. Lukas van den Heuvel - he/his - 1 Oct 2020  
 7. Laura Carter - she/her - 1 October 2020
 8. Enzo Nio, 30 Sep 2020 ;) <br>
