@@ -60,7 +60,7 @@ We, the undersigned, have submitted a pull request to this repository:
 16.<br>
 17.Arielle Bennett - she/her - 1st Oct. 2020 XD
 18.<br>
-19.<br>
+19.Hilya - 1 Oct, 2020
 20.<br>
 
 
