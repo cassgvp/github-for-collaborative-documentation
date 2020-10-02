@@ -24,7 +24,7 @@ Once you have contributed to someone else's documentation (and seen how easy it 
 
 ## What to do
 
-Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, and today's date against one of these numbers. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
+Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, today's date, and your GitHub profile link against one of these numbers. If you don't know your profile link, click your profile icon (top right side) and open 'Your Profile' in a new tab. You can use the URL of that page to build your GitHub profile link. Use the link format: `[Link text here](LINK URL HERE)`. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
 
 Use the procedure described earlier to [fork, clone, branch, edit, push, and submit a pull request](3-2-fork-their-repo.md) to update the lines below.
 
@@ -42,26 +42,29 @@ We, the undersigned, have submitted a pull request to this repository:
 
 > 2) When you are adding your name, pronouns and date, delete the "&lt;br&gt;" next to the number you are updating. This is an html line break, so the list is vertical even when there are no entries. Without these "&lt;br&gt;" after each number, markdown tries to be be clever and put them all in one line for you. Sometimes useful, but not right now.
 
-1. Alex Hernandez-Garcia - he/his - 29th Sep. 2020 :)  
+1. Alex Hernandez-Garcia - he/him/his - 29th Sep. 2020 :) [@alexhernandezgarcia](https://github.com/alexhernandezgarcia)
 2. Laura Carter - she/her - 1 October 2020
-3.<br>
-4.<br>
-5.<br>
-6.<br>
-7.<br>
-8.<br>
-9.<br>
-10.<br>
-11.<br>
-12.<br>
-13.<br>
-14.<br>
-15.<br>
-16.<br>
-17.<br>
-18.<br>
-19.<br>
-20.<br>
+3. Eva C. Herbst - she/her = 1 October 2020
+4. Emma Karoune - she/her - 01/10/2020 :)  
+5. Georgia Aitkenhead - she/her - 01st Oct. 2020 🌟
+6. Lukas van den Heuvel - he/his - 1 Oct 2020  
+7. Laura Carter - she/her - 1 October 2020
+8. Enzo Nio, 30 Sep 2020 ;)
+9. Arielle Bennett - she/her - 1st Oct. 2020 XD 
+10. Yo :) 
+11. Hilya - 1 Oct, 2020
+12. Paul Owoicho - he/him - 1st Oct. 2020 :)
+13. Karega Pauline - she/her -Oct 1 2020 :) [@karegapauline](https://github.com/karegapauline)
+14. Harriet Natabona - she/her - 1 October 2020
+15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
+16. Brad Kennedy - he/him - 2nd October 2020 [@b-kennedy0](https://github.com/b-kennedy0)
+17. <br>
+18. <br>
+19. <br>
+20. <br>
+
+
+![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg)
 
 
 ## You did it!
