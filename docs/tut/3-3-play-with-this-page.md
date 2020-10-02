@@ -24,7 +24,7 @@ Once you have contributed to someone else's documentation (and seen how easy it 
 
 ## What to do
 
-Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, and today's date against one of these numbers. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
+Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, today's date, and your GitHub profile link against one of these numbers. If you don't know your profile link, click your profile icon (top right side) and open 'Your Profile' in a new tab. You can use the URL of that page to build your GitHub profile link. Use the link format: `[Link text here](LINK URL HERE)`. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
 
 Use the procedure described earlier to [fork, clone, branch, edit, push, and submit a pull request](3-2-fork-their-repo.md) to update the lines below.
 
@@ -57,7 +57,7 @@ We, the undersigned, have submitted a pull request to this repository:
 13. Karega Pauline - she/her -Oct 1 2020 :) [@karegapauline](https://github.com/karegapauline)
 14. Harriet Natabona - she/her - 1 October 2020
 15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
-16. <br>
+16. Brad Kennedy - he/him - 2nd October 2020 [@b-kennedy0)(https://github.com/b-kennedy0)
 17. <br>
 18. <br>
 19. <br>
