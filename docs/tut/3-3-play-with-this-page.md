@@ -54,7 +54,7 @@ We, the undersigned, have submitted a pull request to this repository:
 10. Yo :) 
 11. Hilya - 1 Oct, 2020
 12. Paul Owoicho - he/him - 1st Oct. 2020 :)
-13. Karega Pauline - she/her -Oct 1 2020 :) 
+13. Karega Pauline - she/her -Oct 1 2020 :) [@karegapauline](https://github.com/karegapauline)
 14. Harriet Natabona - she/her - 1 October 2020
 15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
 16. <br>
