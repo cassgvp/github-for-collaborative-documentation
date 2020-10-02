@@ -44,7 +44,7 @@ We, the undersigned, have submitted a pull request to this repository:
 
 1. Alex Hernandez-Garcia - he/him/his - 29th Sep. 2020 :) [@alexhernandezgarcia](https://github.com/alexhernandezgarcia)
 2. Laura Carter - she/her - 1 October 2020 [@LauraCarter](https://github.com/LauraCarter)
-3. Eva C. Herbst - she/her = 1 October 2020
+3. Eva C. Herbst - she/her = 1 October 2020 [@evaherbst](https://github.com/evaherbst)
 4. Emma Karoune - she/her - 01/10/2020 :)  
 5. Georgia Aitkenhead - she/her - 01st Oct. 2020 🌟 [@GeorgiaHCA](https://github.com/GeorgiaHCA)
 6. Lukas van den Heuvel - he/his - 1 Oct 2020  
