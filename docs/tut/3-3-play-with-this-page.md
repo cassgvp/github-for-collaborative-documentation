@@ -53,8 +53,8 @@ We, the undersigned, have submitted a pull request to this repository:
 9. Arielle Bennett - she/her - 1st Oct. 2020 XD 
 10. Yo :) 
 11. Hilya - 1 Oct, 2020
-12. Paul Owoicho - he/him - 1st Oct. 2020 :) 
-13. <br>
+12. Paul Owoicho - he/him - 1st Oct. 2020 :)
+13. Karega Pauline - she/her -Oct 1 2020 :) 
 14. <br>
 15. <br>
 16. <br>
