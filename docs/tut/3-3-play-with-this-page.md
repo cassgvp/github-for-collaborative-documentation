@@ -24,7 +24,7 @@ Once you have contributed to someone else's documentation (and seen how easy it 
 
 ## What to do
 
-Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, and today's date against one of these numbers. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
+Below is a list of numbers. For your first contribution to someone else's documentation, I would like you to write your name, your pronouns, today's date, and your GitHub profile link against one of these numbers. If you don't know your profile link, click your profile icon (top right side) and open 'Your Profile' in a new tab. You can use the URL of that page to build your GitHub profile link. Use the link format: `[Link text here](LINK URL HERE)`. If you want to get jazzy, you can do something more complicated, like add a picture or some formatting! I invite you to freestyle or keep it functional as you wish.
 
 Use the procedure described earlier to [fork, clone, branch, edit, push, and submit a pull request](3-2-fork-their-repo.md) to update the lines below.
 
