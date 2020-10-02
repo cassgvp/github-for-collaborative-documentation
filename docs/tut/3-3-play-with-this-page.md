@@ -57,7 +57,7 @@ We, the undersigned, have submitted a pull request to this repository:
 13. Karega Pauline - she/her -Oct 1 2020 :) [@karegapauline](https://github.com/karegapauline)
 14. Harriet Natabona - she/her - 1 October 2020
 15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
-16. <br>
+16. Brad Kennedy - he/him - 2nd October 2020 [@b-kennedy0)(https://github.com/b-kennedy0)
 17. <br>
 18. <br>
 19. <br>
