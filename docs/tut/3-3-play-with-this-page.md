@@ -49,14 +49,14 @@ We, the undersigned, have submitted a pull request to this repository:
 5. Georgia Aitkenhead - she/her - 01st Oct. 2020 🌟
 6. Lukas van den Heuvel - he/his - 1 Oct 2020  
 7. Laura Carter - she/her - 1 October 2020
-8. Enzo Nio, 30 Sep 2020 ;) <br>
+8. Enzo Nio, 30 Sep 2020 ;)
 9. Arielle Bennett - she/her - 1st Oct. 2020 XD 
 10. Yo :) 
 11. Hilya - 1 Oct, 2020
 12. Paul Owoicho - he/him - 1st Oct. 2020 :)
 13. Karega Pauline - she/her -Oct 1 2020 :) 
 14. Harriet Natabona - she/her - 1 October 2020
-15. <br>
+15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
 16. <br>
 17. <br>
 18. <br>
