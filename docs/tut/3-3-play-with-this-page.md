@@ -55,13 +55,14 @@ We, the undersigned, have submitted a pull request to this repository:
 11. Hilya - 1 Oct, 2020
 12. Paul Owoicho - he/him - 1st Oct. 2020 :)
 13. Karega Pauline - she/her -Oct 1 2020 :) 
-14. <br>
+14. Harriet Natabona - she/her - 1 October 2020
 15. <br>
 16. <br>
 17. <br>
 18. <br>
 19. <br>
 20. <br>
+
 
 ![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg)
 
