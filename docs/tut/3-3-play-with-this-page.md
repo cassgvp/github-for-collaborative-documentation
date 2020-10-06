@@ -64,7 +64,7 @@ We, the undersigned, have submitted a pull request to this repository:
 20. <br>
 
 
-![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg){:height="50%" width="50%"}
+![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg){:height="10%" width="10%"}
 
 
 ## You did it!
