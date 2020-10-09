@@ -51,7 +51,7 @@ We, the undersigned, have submitted a pull request to this repository:
 7. Laura Carter - she/her - 1 October 2020
 8. Enzo Nio, 30 Sep 2020 ;)
 9. Arielle Bennett - she/her - 1st Oct. 2020 XD 
-10. Yo :) 
+10. Yo :) [@yochannah](https://github.com/yochannah)
 11. Hilya - 1 Oct, 2020
 12. Paul Owoicho - he/him - 1st Oct. 2020 :) [@paulowoicho](https://github.com/paulowoicho)
 13. Karega Pauline - she/her -Oct 1 2020 :) [@karegapauline](https://github.com/karegapauline)
