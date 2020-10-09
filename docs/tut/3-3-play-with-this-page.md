@@ -59,7 +59,7 @@ We, the undersigned, have submitted a pull request to this repository:
 15. Teresa Laguna - 01st Oct 2020 ;-) [@tlaguna](https://github.com/tlaguna)
 16. Brad Kennedy - he/him - 2nd October 2020 [@b-kennedy0](https://github.com/b-kennedy0)
 17. Jeloith Muthoni - 1 Oct 2020 [@jelioth](https://github.com/Jelioth) ![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg){:height="15%" width="15%"}
-18. <br>
+18. Laura Marcos ^^ - 9 Oct 2020 [@laurichi13](https://github.com/laurichi13) 
 19. <br>
 20. <br>
 
