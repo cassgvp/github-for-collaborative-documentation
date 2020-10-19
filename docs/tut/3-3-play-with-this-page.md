@@ -66,7 +66,7 @@ We, the undersigned, have submitted a pull request to this repository:
 22. <br>
 23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
 24. <br>
-25. <br>
+25. Jon Campbell - 19 Oct 2020 [@ndcn0086]https://github.com/ndcn0086)
 26. <br>
 27. <br>
 28. <br>
