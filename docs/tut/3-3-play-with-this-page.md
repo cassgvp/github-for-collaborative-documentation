@@ -69,7 +69,7 @@ We, the undersigned, have submitted a pull request to this repository:
 25. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
 26. paul mccarthy
 27. Verena Sarrazin - 19 Oct 2020 [@verenasarrazin](https://github.com/verenasarrazin)
-28. <br>
+28. Lowrie Burgess - 19th Oct 2020 [@lowrieb](https://github.com/LowrieB)
 29. <br>
 30. <br>
 998. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
