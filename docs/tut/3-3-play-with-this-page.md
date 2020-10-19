@@ -62,7 +62,7 @@ We, the undersigned, have submitted a pull request to this repository:
 18. Laura Marcos ^^ - 9 Oct 2020 [@laurichi13](https://github.com/laurichi13) 
 19. <br>
 20. <br>
-21. <br>
+21. Verena Sarrazin - 19 Oct 2020 [@verenasarrazin](https://github.com/verenasarrazin)
 22. <br>
 23. <br>
 24. <br>
