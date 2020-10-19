@@ -63,16 +63,27 @@ We, the undersigned, have submitted a pull request to this repository:
 19. Laurence Hunt - 19 October 2020 [@lhuntneuro](https://www.youtube.com/watch?v=oKNy-MWjkcU)
 20. Cam Hassall - he/him - 19 Oct 2020 [@chassall](https://github.com/chassall)
 21. Paula Kaanders - 19 Oct 2020 (https://github.com/p-kaanders)
-22. <br>
+22. Sophie - 19 Oct 2020 [@sophieschau](https://github.com/SophieSchau)
 23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
-24. <br>
-25. Jon Campbell - 19 Oct 2020 [@ndcn0086]https://github.com/ndcn0086)
-26. <br>
-27. <br>
-28. <br>
-29. <br>
-30. <br>
-998. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
+24. Amy Gillespie, she/her, 19 Oct 2020, [@amygillespie](https://github.com/amygillespie) 
+25. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
+26. paul mccarthy
+27. Verena Sarrazin - 19 Oct 2020 [@verenasarrazin](https://github.com/verenasarrazin)
+28. Lowrie Burgess - 19th Oct 2020 [@lowrieb](https://github.com/LowrieB)
+29. Nora Roüast - she/her - 19 October 2020 [@norarouast](https://github.com/norarouast)
+30. Hannah Willis 
+31. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
+32. Jon Campbell - 19 Oct 2020 [@ndcn0086]https://github.com/ndcn0086)
+33. <br>
+34. <br>
+35. <br>
+36. <br>
+37. <br>
+38. <br>
+39. <br>
+40. <br>
+
+
 
 
 
