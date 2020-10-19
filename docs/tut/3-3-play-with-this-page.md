@@ -61,7 +61,7 @@ We, the undersigned, have submitted a pull request to this repository:
 17. Jeloith Muthoni - 1 Oct 2020 [@jelioth](https://github.com/Jelioth) ![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg){:height="15%" width="15%"}
 18. Laura Marcos ^^ - 9 Oct 2020 [@laurichi13](https://github.com/laurichi13) 
 19. Laurence Hunt - 19 October 2020 [@lhuntneuro](https://www.youtube.com/watch?v=oKNy-MWjkcU)
-20. <br>
+20. Cam Hassall - he/him - 19 Oct 2020 [@chassall](https://github.com/chassall)
 21. <br>
 22. <br>
 23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
