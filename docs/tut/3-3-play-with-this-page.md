@@ -65,9 +65,9 @@ We, the undersigned, have submitted a pull request to this repository:
 21. Paula Kaanders - 19 Oct 2020 (https://github.com/p-kaanders)
 22. <br>
 23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
-24. paul mccarthy
-25. <br>
-26. <br>
+24. Amy Gillespie, she/her, 19 Oct 2020, [@amygillespie](https://github.com/amygillespie) 
+25. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
+26. paul mccarthy
 27. <br>
 28. <br>
 29. <br>
