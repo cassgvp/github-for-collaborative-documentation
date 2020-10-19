@@ -73,7 +73,7 @@ We, the undersigned, have submitted a pull request to this repository:
 29. Nora Roüast - she/her - 19 October 2020 [@norarouast](https://github.com/norarouast)
 30. Hannah Willis 
 31. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
-32. <br>
+32. Jon Campbell - 19 Oct 2020 [@ndcn0086]https://github.com/ndcn0086)
 33. <br>
 34. <br>
 35. <br>
@@ -82,6 +82,7 @@ We, the undersigned, have submitted a pull request to this repository:
 38. <br>
 39. <br>
 40. <br>
+
 
 
 
