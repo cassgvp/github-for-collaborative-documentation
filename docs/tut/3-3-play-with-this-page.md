@@ -62,6 +62,17 @@ We, the undersigned, have submitted a pull request to this repository:
 18. Laura Marcos ^^ - 9 Oct 2020 [@laurichi13](https://github.com/laurichi13) 
 19. <br>
 20. <br>
+21. <br>
+22. <br>
+23. <br>
+24. <br>
+25. <br>
+26. <br>
+27. <br>
+28. <br>
+29. <br>
+30. <br>
+
 
 
 
