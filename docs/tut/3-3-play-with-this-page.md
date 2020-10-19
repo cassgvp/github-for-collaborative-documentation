@@ -60,18 +60,19 @@ We, the undersigned, have submitted a pull request to this repository:
 16. Brad Kennedy - he/him - 2nd October 2020 [@b-kennedy0](https://github.com/b-kennedy0)
 17. Jeloith Muthoni - 1 Oct 2020 [@jelioth](https://github.com/Jelioth) ![pictutre](https://www.incimages.com/uploaded_files/image/1920x1080/getty_469566889_105923.jpg){:height="15%" width="15%"}
 18. Laura Marcos ^^ - 9 Oct 2020 [@laurichi13](https://github.com/laurichi13) 
-19. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
-20. <br>
-21. <br>
+19. Laurence Hunt - 19 October 2020 [@lhuntneuro](https://www.youtube.com/watch?v=oKNy-MWjkcU)
+20. Cam Hassall - he/him - 19 Oct 2020 [@chassall](https://github.com/chassall)
+21. Paula Kaanders - 19 Oct 2020 (https://github.com/p-kaanders)
 22. <br>
-23. <br>
-24. <br>
-25. <br>
+23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
+24. Amy Gillespie, she/her, 19 Oct 2020, [@amygillespie](https://github.com/amygillespie) 
+25. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
 26. <br>
 27. <br>
 28. <br>
 29. <br>
 30. <br>
+998. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
 
 
 
