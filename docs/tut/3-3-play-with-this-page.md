@@ -64,7 +64,7 @@ We, the undersigned, have submitted a pull request to this repository:
 20. <br>
 21. <br>
 22. <br>
-23. <br>
+23. Paula Kaanders - 19 Oct 2020 (https://github.com/p-kaanders)
 24. <br>
 25. <br>
 26. <br>
