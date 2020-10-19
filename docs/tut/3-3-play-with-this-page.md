@@ -68,7 +68,7 @@ We, the undersigned, have submitted a pull request to this repository:
 24. Amy Gillespie, she/her, 19 Oct 2020, [@amygillespie](https://github.com/amygillespie) 
 25. Malte Kaller -  [@malte-kaller](https://github.com/malte-kaller) 
 26. paul mccarthy
-27. <br>
+27. Verena Sarrazin - 19 Oct 2020 [@verenasarrazin](https://github.com/verenasarrazin)
 28. <br>
 29. <br>
 30. <br>
