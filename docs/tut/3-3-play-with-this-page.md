@@ -71,7 +71,7 @@ We, the undersigned, have submitted a pull request to this repository:
 27. Verena Sarrazin - 19 Oct 2020 [@verenasarrazin](https://github.com/verenasarrazin)
 28. Lowrie Burgess - 19th Oct 2020 [@lowrieb](https://github.com/LowrieB)
 29. Nora Roüast - she/her - 19 October 2020 [@norarouast](https://github.com/norarouast)
-30. <br>
+30. Hannah Willis 
 998. Evan Edmond - 19 Oct 2020 [@Craskermasker](https://github.com/Craskermasker)
 
 
