@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Starting with git
+# Starting with GitHub
 {: .fs-8 }
 
 A few hoops to jump through before you can rock GitHub Pages for your documentation
