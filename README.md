@@ -6,7 +6,7 @@
 Follow these tutorials to learn how to contribute to documentation hosted on github pages, and host your own docs!
 
 
-This is the GitHub repository for material shared via [cassgvp.github.io/git-for-collaborative-documentation/](https://cassgvp.github.io/git-for-collaborative-documentation/).
+This is the GitHub repository for material shared via [cassgvp.github.io/github-for-collaborative-documentation/](https://cassgvp.github.io/git-for-collaborative-documentation/).
 
 ---
 
