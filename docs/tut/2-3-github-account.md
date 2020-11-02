@@ -26,7 +26,7 @@ To create a GitHub account, got to [github.com](https://github.com) and sign up 
 
 ## Side note on objections to GitHub
 
-GitHub is owned by Microsoft and your data are maintained on Microsoft's infrastructure. By using GitHub you confer certain rights to Microsoft, but you rtain legal responsibility for your content. Read more about this in [GitHub's terms of service](https://docs.github.com/en/github/site-policy/github-terms-of-service#d-user-generated-content).
+GitHub is owned by Microsoft and your data are maintained on Microsoft's infrastructure. By using GitHub you confer certain rights to Microsoft, but you retain legal responsibility for your content. Read more about this in [GitHub's terms of service](https://docs.github.com/en/github/site-policy/github-terms-of-service#d-user-generated-content).
 
 Some people object to the use of GitHub on the basis that it is not open source (you cannot recreate it as a complete tool yourself) and that it is a for-profit platform owned by a multinational trillion dollar corporation.
 
