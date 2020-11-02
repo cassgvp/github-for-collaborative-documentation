@@ -1,4 +1,4 @@
-# Git for collaborative documentation
+# GitHub for collaborative documentation
 
 [![DOI](https://zenodo.org/badge/298242612.svg)](https://zenodo.org/badge/latestdoi/298242612)
 
