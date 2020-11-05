@@ -17,3 +17,5 @@ Integrate your repository with Zenodo to create a citable object
 
 Coming soon
 {: .label .label-yellow }
+
+<!-- https://guides.lib.berkeley.edu/citeyourcode -->
