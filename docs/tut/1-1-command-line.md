@@ -3,7 +3,7 @@ layout: default
 title: 1.1 Command line
 nav_order: 1
 grand_parent: Tutorials
-parent: 1. Tools for git
+parent: 1. Tools for Git and GitHub
 has_children: false
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: 1.3 Atom text editor
 nav_order: 3
 grand_parent: Tutorials
-parent: 1. Tools for git
+parent: 1. Tools for Git and GitHub
 has_children: false
 ---
 
