@@ -19,14 +19,13 @@ How to create a doi using Zenodo for your GitHub project
 
 ---
 
-Zenodo is free to use tool for creating a digital object identifier (doi) for your shared resources. A doi is essential for enabling other researchers to cite and reuse your material, and for you to receive proper attribution. Your doi entry will include your [ORCID ID](https://info.orcid.org/benefits-for-researchers/), so it can be tracked against all your other research outputs.
+Zenodo is free to use tool for creating a digital object identifier (doi) for your shared resources. A doi is essential for enabling other researchers to cite and reuse your material, and for you to receive proper attribution. Your doi entry will include your [ORCID](https://info.orcid.org/benefits-for-researchers/), so it can be tracked against all your other research outputs.
 
 There are two ways to create a doi for a GitHub repository using Zenodo:
-1. Manual upload of your repository materials (simple)[##1-manual-upload-of-your-repository-materials-simple]
-2. Automated DOI generation and versioning with Zenodo-GitHub integration (more advanced!)[#automated-doi-generation-and-versioning-with-zenodo-github-integration-more-advanced]
+1. [Manual upload of your repository materials (simple)](##1-manual-upload-of-your-repository-materials-simple)
+2. [Automated DOI generation and versioning with Zenodo-GitHub integration (more advanced!)](#automated-doi-generation-and-versioning-with-zenodo-github-integration-more-advanced)
 
 ## 1. Manual upload of your repository materials (simple)
-
 
 ### First time creating a doi for a GitLab repository
 
@@ -56,6 +55,6 @@ Follow this [guide from Code Refinary](https://coderefinery.github.io/github-wit
 
 !Note! When the API builds your contibutor list for Zenodo, it looks first for contibutors to your GitHub repository and the list will be re-written with every new release of your code (that is, when a new versio of your DOI is triggered).
 
-Make sure all your contributors (and their ORCIDs) are included by adding a [.zenodo.json](https://developers.zenodo.org/#add-metadata-to-your-github-repository-release) (another example here)](https://github.com/openresearchcalendar/openresearchcalendar.github.io/blob/master/.zenodo.json) file to your repository, including all your contributor metadata.
+Make sure all your contributors (and their ORCIDs) are included by adding a [.zenodo.json](https://developers.zenodo.org/#add-metadata-to-your-github-repository-release) [(another example here)](https://github.com/openresearchcalendar/openresearchcalendar.github.io/blob/master/.zenodo.json) file to your repository, including all your contributor metadata.
 
-Contibutor metadata can also be parsed form a [CITATION.cff file](https://citation-file-format.github.io/#/supported-by-zenodo-). 
+Contibutor metadata can also be parsed form a [CITATION.cff file](https://citation-file-format.github.io/#/supported-by-zenodo-).
