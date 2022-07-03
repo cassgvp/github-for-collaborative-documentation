@@ -68,4 +68,9 @@ To get the contributing file in place, I'm going to use the "add file" function 
 
 To save your changes, describe what you did in the commit message, then press "commit"
 
-![gif-add-contributing](../../img/gifs/add-contributing.gif)
+![gif-add-contributing](../../img/gifs/add-contributing.gif).
+
+## 5. Add a CITATION.cff
+This is a standardised file format which provides the exact metadata people will need to cite your repository (using the [doi you generate](./6-Zenodo-integration.md)). It is easy to read by machines and humans, and is quickly becoming a sector standard - look out for a CITATION.cff in other software tools you use!
+
+See [The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-cff.html) for information on what to include in a CITATION.cff file.
