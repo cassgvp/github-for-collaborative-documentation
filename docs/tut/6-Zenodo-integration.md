@@ -23,7 +23,7 @@ Zenodo is free to use tool for creating a digital object identifier (doi) for yo
 
 There are two ways to create a doi for a GitHub repository using Zenodo:
 1. [Manual upload of your repository materials (simple)](##1-manual-upload-of-your-repository-materials-simple)
-2. [Automated DOI generation and versioning with Zenodo-GitHub integration (more advanced!)](#automated-doi-generation-and-versioning-with-zenodo-github-integration-more-advanced)
+2. [Automated DOI generation and versioning with Zenodo-GitHub integration (more advanced!)](#2-automated-doi-generation-and-versioning-with-zenodo-github-integration-more-advanced)
 
 ## 1. Manual upload of your repository materials (simple)
 
